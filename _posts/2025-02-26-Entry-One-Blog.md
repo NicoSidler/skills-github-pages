@@ -1,5 +1,5 @@
 ---
-title: "Entry-One-Bloc"
+title: "Entry-One-Blog"
 date: 2025-02-26
 ---
 # The title
